@@ -1,0 +1,16 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: UTF-8\n"
+
+msgid "LOADING"
+msgstr "लोड हो रहा है..."
+
+msgid "LANG"
+msgstr "भाषा हिन्दी"
+
+msgid "SYSTEM LANGUAGE"
+msgstr "सिस्टम भाषा"
+
+msgid "CHANGED"
+msgstr "बदल"
